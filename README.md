@@ -76,7 +76,7 @@
 
 Are you considering supporting the project by donating to me? Please DO NOT!!!
 
-<img src="https://cfstatic.give.do/910ede2a-7892-43fe-8c8a-dea45e96d950.webp" alt="Picture of Coromandel Express train tragedy" width="35%">
+<img src="https://backiee.com/wallpaper/futuristic-metropolis-under-a-starry-night-sky/312061" alt="Picture of Coromandel Express train tragedy" width="35%">
 
 India has recently suffered one of the most devastating train accidents, and your help will be immensely valuable for the people who were affected by this tragedy.
 
