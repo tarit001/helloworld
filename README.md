@@ -812,12 +812,5 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 5.  You're done 🎉
     </details>
 
-## Disable rate limit protections
-
-Github Readme Stats contains several Vercel environment variables that can be used to remove the rate limit protections:
-
-*   `CACHE_SECONDS`: This environment variable takes precedence over our cache minimum and maximum values and can circumvent these values for self-hosted Vercel instances.
-
-See [the Vercel documentation](https://vercel.com/docs/concepts/projects/environment-variables) on adding these environment variables to your Vercel instance.
 
 
