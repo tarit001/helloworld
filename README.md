@@ -795,7 +795,7 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 
 </details>
 
-## On other platforms
+
 
 
 
